@@ -55,3 +55,16 @@ void my_learning_method()
         knowledge_is_consolidated();
     }
 }
+
+## Useful Tools 🛠️
+
+- **[Python Tutor](https://pythontutor.com)**: Great for visualizing step-by-step what each line of code does.
+- **VS Code Debugger**: Helpful for inspecting your code while running it. The debugging tool helps you understand how the program flows and identify issues effectively.
+
+## Practice Consistently ⏱️
+
+Consistent practice is essential, especially with the exam exercises. Try dedicating some time each week to solving these. Practicing often is the best way to strengthen your skills. The Piscine exam isn't just a test—it's an opportunity to gauge how far you've come. [Here is a link to practice exercises](#).
+
+## Enjoy the Process! 🌊🏆
+
+> **Note**: If you’re looking to recreate the environment from school at home, consider using a Linux-based system. This will help ensure you’re accustomed to the same tools and commands used during the Piscine. [Here is a link with instructions on how to install Linux on a Windows machine](#).
